@@ -74,7 +74,7 @@ The codebase follows one consistent pattern across all plugins, so anyone explor
 Clone the repository:
 
 ```bash
-git clone https://github.com/username/nama-repo.git
+git clone https://github.com/npmEll001/mileinaProjects.git
 cd nama-repo
 ```
 
