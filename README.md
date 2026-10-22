@@ -1037,13 +1037,10 @@ Project Link: [https://github.com/username/repo](https://github.com/username/rep
 
 ## 🙏 Acknowledgements
 
-- [Baileys / elaina-baileys](https://github.com/WhiskeySockets/Baileys)
-- [Sharp](https://github.com/lovell/sharp)
-- [FFmpeg](https://ffmpeg.org/)
-- All contributors who helped build this project 🎉
+- [Baileys / elaina-baileys](https://github.com/rexxzyid/elaina-baileys)
 
 ---
-
+1
 <div align="center">
 
 ⭐ If this project helps you, please give it a **star**!
