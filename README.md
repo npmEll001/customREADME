@@ -2,7 +2,6 @@
 
 <!-- LOGO (opsional) -->
 <img src="https://imgbs.com/uploads/copyright-waguri-e5d7e063.jpg" alt="Copyright © Waguri">
-# 🚀 Nama Proyek Kamu
 
 Deskripsi singkat satu baris tentang proyek ini, tulis dengan jelas dan menarik.
 
