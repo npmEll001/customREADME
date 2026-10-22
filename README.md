@@ -2,7 +2,7 @@
 
 <img src="https://imgbs.com/uploads/copyright-mileina-0b70b07f.png" alt="Copyright © MILEINA">
 
-# MILEINA CHATBOT
+MILEINA CHATBOT
 
 Multi-device WhatsApp bot built on Node.js and the Baileys library. It provides hundreds of commands through a modular plugin system, covering AI, sticker creation, image and media makers, group management, and utilities. Developed by Hai Ell Engineer.
 
