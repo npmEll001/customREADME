@@ -1042,4 +1042,6 @@ Project Link: [https://github.com/username/repo](https://github.com/username/rep
 
 ⭐ If this project helps you, please give it a **star**!
 
+---
+
 </div>
