@@ -10,7 +10,7 @@ Multi-device WhatsApp bot built on Node.js and the Baileys library. It provides 
 ![Version](https://img.shields.io/badge/version-1.185.7-blue)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 ![Node](https://img.shields.io/badge/node-%3E%3D24-6DA55F)
-![ESM](https://img.shields.io/badge/module-ESM-F7DF1E?logo=javascript&logoColor=black)
+![ESM](https://img.shields.io/badge/module-ESM-F7DF1E?logo=javascript&logoColor=yellow)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
 [Demo](#) · [Documentation](#) · [Report Bug](https://github.com/username/nama-repo/issues) · [Request Feature](https://github.com/username/nama-repo/issues)
