@@ -9,8 +9,8 @@ Bot WhatsApp multidevice berbasis Node.js, dibangun di dengan library Baileys. M
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.185.7-blue)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
-![Stars](https://img.shields.io/github/stars/username/repo?style=social)
-![Issues](https://img.shields.io/github/issues/username/repo)
+![Stars](https://img.shields.io/github/stars/npmEll001/mileinaProjects?style=social)
+![Issues](https://img.shields.io/github/issues/npmEll001/mileinaProjects)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
 [Demo](#) · [Dokumentasi](#) · [Laporkan Bug](#) · [Request Fitur](#)
