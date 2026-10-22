@@ -1,4 +1,4 @@
-<div align="central"
+<div align="center">
   
 <img src="https://imgbs.com/uploads/copyright-mileina-0b70b07f.png" alt="Copyright © MILEINA">
 
