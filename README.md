@@ -1,6 +1,5 @@
-<div align="center">
-
-<!-- LOGO (opsional) -->
+<div align="central"
+  
 <img src="https://imgbs.com/uploads/copyright-mileina-0b70b07f.png" alt="Copyright © MILEINA">
 
 Multi-device WhatsApp Bot based on Node.js, built with the Baileys library. Provides hundreds of commands through a modular plugin system — ranging from AI, sticker creation, group tools, to other utilities. Developed by Hai Ell Engineer.
