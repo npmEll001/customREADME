@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- LOGO (opsional) -->
-<img src="https://imgbs.com/uploads/copyright-waguri-e5d7e063.jpg" alt="Copyright © Waguri">
+<img src="https://imgbs.com/uploads/copyright-mileina-0b70b07f.png" alt="Copyright © MILEINA">
 
 Deskripsi singkat satu baris tentang proyek ini, tulis dengan jelas dan menarik.
 
