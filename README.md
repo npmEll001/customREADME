@@ -1031,9 +1031,7 @@ Distributed under the MIT License. See [`LICENSE.md`](LICENSE.md) for details.
 
 ## 📬 Contact
 
-**Your Name** - [@twitter_handle](https://twitter.com/handle) - email@example.com
-
-Project Link: [https://github.com/username/repo](https://github.com/username/repo)
+**Hai Ell Engineer** - [@twitter_handle](https://twitter.com/handle) - email@example.com
 
 ## 🙏 Acknowledgements
 
