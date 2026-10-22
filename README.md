@@ -3,7 +3,7 @@
 <!-- LOGO (opsional) -->
 <img src="https://imgbs.com/uploads/copyright-mileina-0b70b07f.png" alt="Copyright © MILEINA">
 
-Deskripsi singkat satu baris tentang proyek ini, tulis dengan jelas dan menarik.
+Bot WhatsApp multifungsi berbasis Node.js, dibangun di dengan library Baileys. Menyediakan ratusan command lewat sistem plugin modular — mulai dari AI, pembuatan stiker, tools grup, hingga utilitas lainnya. Dikembangkan oleh Hai Ell Engineer.
 
 <!-- BADGES -->
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
