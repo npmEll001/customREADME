@@ -3,7 +3,7 @@
 <!-- LOGO (opsional) -->
 <img src="https://imgbs.com/uploads/copyright-mileina-0b70b07f.png" alt="Copyright © MILEINA">
 
-Bot WhatsApp multidevice berbasis Node.js, dibangun di dengan library Baileys. Menyediakan ratusan command lewat sistem plugin modular — mulai dari AI, pembuatan stiker, tools grup, hingga utilitas llainnya. Dikembangkan oleh Hai Ell Engineer
+Multi-device WhatsApp Bot based on Node.js, built with the Baileys library. Provides hundreds of commands through a modular plugin system — ranging from AI, sticker creation, group tools, to other utilities. Developed by Hai Ell Engineer.
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.185.7-blue)
