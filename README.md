@@ -15,7 +15,9 @@ Bot WhatsApp multidevice berbasis Node.js, dibangun di dengan library Baileys. M
 [Demo](#) · [Dokumentasi](#) · [Laporkan Bug](#) · [Request Fitur](#)
 
 </div>
+
 ---
+
 ## 📋 Daftar Isi
 
 - [Tentang Proyek](#-tentang-proyek)
