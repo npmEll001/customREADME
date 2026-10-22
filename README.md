@@ -1038,10 +1038,9 @@ Project Link: [https://github.com/username/repo](https://github.com/username/rep
 ## 🙏 Acknowledgements
 
 - [Baileys / elaina-baileys](https://github.com/rexxzyid/elaina-baileys)
+---
 <div align="center">
 
 ⭐ If this project helps you, please give it a **star**!
-
----
 
 </div>
