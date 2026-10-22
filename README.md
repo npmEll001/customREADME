@@ -17,7 +17,7 @@ Multi-device WhatsApp Bot based on Node.js, built with the Baileys library. Prov
 
 ---
 
-## 📋 Daftar Isi
+## 📋 List
 
 - [Tentang Proyek](#-tentang-proyek)
 - [Fitur](#-fitur)
@@ -37,9 +37,8 @@ Multi-device WhatsApp Bot based on Node.js, built with the Baileys library. Prov
 
 ---
 
-## 📖 Tentang Proyek
-
-Jelaskan proyek ini secara lebih detail di sini: masalah apa yang diselesaikan, kenapa proyek ini dibuat, dan siapa target penggunanya.
+## 📖 About
+MILENIA CHATBOT is a Node.js-based WhatsApp bot built using the Baileys library. Every command is designed to be concise—simply type it in and get an immediate result, without any complicated input formatting. Under the hood, the code structure is neat and consistent; a uniform pattern is applied across all plugins, ensuring that anyone who explores this project can quickly grasp the workflow and continue development without the headache of trying to decipher someone else’s code. Developed and maintained by Hai Ell Engineer, following the principle: *"From the original developers, for the next developers."*
 
 > 💡 **Tips:** Kamu bisa pakai blockquote seperti ini untuk menonjolkan catatan penting.
 
