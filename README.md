@@ -1031,9 +1031,9 @@ Distributed under the MIT License. See [`LICENSE.md`](LICENSE.md) for details.
 
 ## 📬 Contact
 
-**Emali:** ellmessage0@gmail.com
-**Whatsapp:** https://wa.me/6287710348394
-**Telegram:** https://t.me/npmell01
+- **Emali:** ellmessage0@gmail.com
+- **Whatsapp:** https://wa.me/6287710348394
+- **Telegram:** https://t.me/npmell01
 
 ## 🙏 Acknowledgements
 
